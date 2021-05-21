@@ -1,2 +1,2 @@
 # omnifood
-web design for ordering food
+web page for ordering food
